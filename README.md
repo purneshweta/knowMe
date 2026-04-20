@@ -1,2 +1,2 @@
 # knowMe
-Chat to know more about Purneshweta Dash
+Chat to know more about Purneshweta
